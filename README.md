@@ -7,3 +7,7 @@
 ## Typescript
 
 - [How to define async type functions in an interface?](https://stackoverflow.com/a/43453106/30949935)
+
+## Database
+
+- [Pagination implementation in PostgreSQL using `OFFSET` and `LIMIT`](https://medium.com/@aldinofrizal/pagination-from-a-database-perspective-602ccee7ded2)
