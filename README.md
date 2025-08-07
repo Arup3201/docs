@@ -11,3 +11,7 @@
 ## Database
 
 - [Pagination implementation in PostgreSQL using `OFFSET` and `LIMIT`](https://medium.com/@aldinofrizal/pagination-from-a-database-perspective-602ccee7ded2)
+
+## Miscellaneous
+
+- [Different between CR LF (Windows), LF (Unix) and CR (Mac)](https://stackoverflow.com/a/1552775/30949935)
