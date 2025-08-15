@@ -11,3 +11,8 @@
 ## Database
 
 - [Pagination implementation in PostgreSQL using `OFFSET` and `LIMIT`](https://medium.com/@aldinofrizal/pagination-from-a-database-perspective-602ccee7ded2)
+
+## C Language
+
+- [C language book by Dennis Ritchie](https://colorcomputerarchive.com/repo/Documents/Books/The%20C%20Programming%20Language%20%28Kernighan%20Ritchie%29.pdf)
+- [Official C programming site](https://www.c-language.org/)
